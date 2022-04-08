@@ -24,9 +24,9 @@
 </a>
 
 ##
-<p align="center" display="flex" >
+<p align="left" display="flex" >
   <a href="https://github.com/kas-oss">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kas-oss&show_icons=true&theme=blueberry&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas-oss&layout=compact&count_private=true&theme=blueberry"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=kas-oss&show_icons=true&theme=blueberry&count_private=true"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas-oss&layout=compact&count_private=true&theme=blueberry"/>
   </a>
 </p>
