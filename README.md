@@ -12,8 +12,8 @@
 </br>
 </br>
 <div display="inline-block">
-   <p align="left">📚 Ultimamente tenho estudado HTML, CSS, JavaScript Além de Explorar o Famigerado Delphi;</p>
-   <p align="left">☕ Todo dia me pergunto onde essa estrada vai me levar. Tomara que pelo caminho tenha muito café pra tomar;</p>
+   <p align="left">📚 Ultimamente tenho estudado HTML, CSS, JavaScript Além de Explorar o Famigerado Delphi.</p>
+   <p align="left">☕ Todo dia me pergunto onde essa estrada vai me levar. Tomara que pelo caminho tenha muito café pra tomar.</p>
 </div>
 </br>
 <a href="https://www.linkedin.com/in/kasoss" target="_blank">
