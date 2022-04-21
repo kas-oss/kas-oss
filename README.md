@@ -8,7 +8,7 @@
 </br>  
    Sou estudante de Análise e Desenvolvimento de Sistemas e Também estudo Ciências Contábeis. 
 </br>  
-   Estudar e aprender é meu maior hobbie, além de ir à praia é claro!
+   Estudar e aprender é meu maior hobbie, além de ir a praia é claro!
 </br>
 </br>
 <div display="inline-block">
