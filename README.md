@@ -25,12 +25,12 @@
 
 ##
 <p align="left">
-   <a href="https://github.com/kas-oss/kas-oss" target="_blank">  
+   <a href="https://github.com/kas-oss/kas-oss">  
       <img  src="https://github-readme-stats.vercel.app/api?username=kas-oss&show_icons=true&theme=blueberry&count_private=true" />
    </a>
 </p>
 <p align="left">
-   <a href="https://github.com/kas-oss/kas-oss" target="_blank">
+   <a href="https://github.com/kas-oss/kas-oss">
       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas-oss&layout=compact&count_private=true&theme=blueberry" />
    </a>
 </p>
