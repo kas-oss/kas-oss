@@ -25,7 +25,9 @@
 
 ##
 <p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=kas-oss&show_icons=true&theme=blueberry&count_private=true" />
+   <a href="https://github.com/kas-oss/kas-oss" target="_blank">  
+      <img  src="https://github-readme-stats.vercel.app/api?username=kas-oss&show_icons=true&theme=blueberry&count_private=true" />
+   </a>
 </p>
 <p align="left">
    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas-oss&layout=compact&count_private=true&theme=blueberry" />
