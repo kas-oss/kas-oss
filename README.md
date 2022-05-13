@@ -27,6 +27,7 @@
 <p align="left" display="flex" >
   <a href="https://github.com/kas-oss">
     <img  src="https://github-readme-stats.vercel.app/api?username=kas-oss&show_icons=true&theme=blueberry&count_private=true"/>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas-oss&layout=compact&count_private=true&theme=blueberry"/>
+     
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kas-oss&layout=compact&langs_count=8&count_private=true&theme=blueberry"/>
   </a>
 </p>
