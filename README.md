@@ -2,7 +2,7 @@
    <h1 align="left">Olá, eu sou o Lucas!</h1>
 </div>
 </br>
-   Tenho 25 anos, moro no interior da Bahia e sou absurdamente apaixonado por programação e finanças! 
+   Tenho 26 anos, moro no interior da Bahia e sou absurdamente apaixonado por programação e finanças! 
 </br>  
    Desde o inicio da minha jornada nesse vasto mundo da tecnologia, eu tento aos trancos e barrancos unir essas duas áreas.
 </br>  
