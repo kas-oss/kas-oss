@@ -1,20 +1,14 @@
 <div dsplay="inline-block">
-   <h1 align="left">Olá, eu sou o Lucas!</h1>
+   <h1 align="left">Oi, eu sou o Lucas!</h1>
 </div>
 </br>
-   Tenho 26 anos, moro no interior da Bahia e sou absurdamente apaixonado por programação e finanças! 
+   Tenho 28 anos, moro no interior da Bahia e sou apaixonado por programação e finanças! 
 </br>  
-   Desde o inicio da minha jornada nesse vasto mundo da tecnologia, eu tento aos trancos e barrancos unir essas duas áreas.
-</br>  
-   Sou estudante de Análise e Desenvolvimento de Sistemas e Também estudo Ciências Contábeis. 
+   Desde o inicio da minha jornada no mundo da tecnologia, eu venho unindo essas duas áreas.
 </br>  
    Estudar e aprender é meu maior hobbie, além de ir a praia é claro!
 </br>
 </br>
-<div display="inline-block">
-   <p align="left">📚 Ultimamente tenho estudado HTML, CSS, JavaScript Além de Explorar o Famigerado Delphi.</p>
-   <p align="left">☕ Todo dia me pergunto onde essa estrada vai me levar. Tomara que pelo caminho tenha muito café pra tomar.</p>
-</div>
 </br>
 <a href="https://www.linkedin.com/in/kasoss" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
